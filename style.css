@@ -1,3 +1,8 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('fonts/Roboto/Roboto-Regular.ttf');
+}
+
 header {
   text-align: center;
   padding: 20px;
@@ -8,18 +13,27 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color: #5b5b58;
+  background-color: #272727;
   margin: 0;
   min-height: 100vh;
+  font-family: 'Roboto', sans-serif;
 }
 
 main {
   text-align: center;
   margin: 20px;
+
 }
 
 h1 {
   margin-top: 10px;
+  color: #e29b00;
+  margin-bottom: 0px;
+
+}
+
+h2 {
+  color: #e24800;
 }
 
 ul {
