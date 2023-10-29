@@ -48,6 +48,11 @@ li {
   border-bottom: 2px solid #e29b00;
 }
 
+.bold {
+  color: #e24800;
+  font-weight: bold;
+}
+
 footer {
   text-align: center;
   padding: 20px;
